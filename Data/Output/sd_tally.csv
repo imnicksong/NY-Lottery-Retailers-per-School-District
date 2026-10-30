@@ -1,0 +1,658 @@
+,sd_label,total_retailers
+0,New York City,4469
+1,Buffalo,198
+2,Rochester,186
+3,Yonkers,127
+4,Syracuse,111
+5,Sewanhaka Central,100
+6,Sachem,87
+7,Albany,79
+8,Newburgh,72
+9,Wappingers,70
+10,Patchogue-Medford,63
+11,Brentwood,63
+12,Utica,58
+13,Bellmore-Merrick,55
+14,Rush-Henrietta,54
+15,Middletown,53
+16,Kingston,51
+17,Schenectady,51
+18,Riverhead,51
+19,Niagara Falls,50
+20,Arlington,50
+21,Greece,49
+22,North Syracuse,49
+23,Longwood,47
+24,Hempstead,47
+25,Freeport,47
+26,Connetquot,47
+27,Valley Strm Central,47
+28,Uniondale,46
+29,Smithtown,46
+30,Shenendehowa,46
+31,South Colonie,45
+32,Middle Country,44
+33,Kenmore,43
+34,Farmingdale,43
+35,Watertown,42
+36,East Meadow,42
+37,Binghamton,42
+38,East Ramapo,42
+39,Mount Vernon,42
+40,Elmont,41
+41,Saratoga Springs,40
+42,West Seneca,39
+43,New Rochelle,39
+44,Lindenhurst,38
+45,Haverstraw-Stony Pt,38
+46,South Huntington,37
+47,Troy,37
+48,Liverpool,37
+49,Hicksville,37
+50,Williamsville,36
+51,William Floyd,36
+52,Oswego,36
+53,Sweet Home,34
+54,Elmira City,34
+55,East Greenbush,34
+56,Bay Shore,33
+57,Huntington,32
+58,Oneonta,32
+59,Lancaster,31
+60,East Islip,31
+61,Gates-Chili,30
+62,Oceanside,30
+63,Cortland,30
+64,White Plains,30
+65,West Babylon,30
+66,Maplewood,29
+67,Beekmantown,29
+68,Port Chester-Rye,29
+69,Hauppauge,29
+70,Lockport,29
+71,Rome,29
+72,Corning,29
+73,Massapequa,28
+74,Webster,28
+75,Amsterdam,28
+76,Great Neck,28
+77,Commack,28
+78,E.Syracuse-Minoa,27
+79,Batavia City,27
+80,Ithaca,27
+81,Long Beach,27
+82,Frontier,27
+83,Guilderland,26
+84,Plattsburgh,26
+85,Northport,26
+86,Union-Endicott,26
+87,Baldwinsville,26
+88,Auburn,26
+89,Brewster,26
+90,Lawrence,26
+91,Carmel,25
+92,Lakeland,25
+93,Deer Park,25
+94,Half Hollow Hills,25
+95,Brockport,25
+96,Pine Bush,25
+97,Clarkstown,25
+98,Ballston Spa,25
+99,Franklin Square,25
+100,Hyde Park,25
+101,Comsewogue,24
+102,New Hyde Park,24
+103,Mohonasen,24
+104,Baldwin,24
+105,Poughkeepsie,24
+106,Horseheads,23
+107,Cheektowaga,23
+108,Copiague,23
+109,Westbury,23
+110,Hudson,23
+111,Monroe-Woodbury,23
+112,Central Islip,23
+113,Mineola,23
+114,Fulton,22
+115,No.Tonawanda,22
+116,Depew,22
+117,Valley-Montgomery,22
+118,Ossining,22
+119,Bethlehem,22
+120,Monticello,22
+121,North Babylon,21
+122,South Country,21
+123,East Irondequoit,21
+124,Levittown,21
+125,Kings Park,20
+126,Saugerties,20
+127,Plainview,20
+128,Fairport,20
+129,Rocky Point,20
+130,Amityville,20
+131,Mahopac,20
+132,Plainedge,19
+133,Watervliet,19
+134,Lake George,19
+135,Catskill,19
+136,Syosset,19
+137,Orchard Park,19
+138,Hamburg,19
+139,Valley Str Hemp 30,19
+140,Ogdensburg,19
+141,Bedford,19
+142,Ramapo(Edwin Gould),19
+143,Islip,19
+144,Johnson City,19
+145,S.Glens Falls,18
+146,Gloversville,18
+147,Malone,18
+148,Nyack,18
+149,Central Square,18
+150,Glen Cove,18
+151,Vestal,18
+152,Goshen,18
+153,Chenango Valley,18
+154,Three Village,18
+155,Mamaroneck,17
+156,Cheektowaga-Maryvale,17
+157,Canandaigua City,17
+158,Glens Falls,17
+159,Waterloo,17
+160,North Bellmore,17
+161,Johnstown,17
+162,Rondout Valley,17
+163,Thousand Island,17
+164,Norwich City,17
+165,West Hempstead,17
+166,Massena,17
+167,Niagara-Wheatfield,17
+168,West Islip,17
+169,Lansingburgh,16
+170,West Genesee,16
+171,Port Washington,16
+172,Jamestown,16
+173,Seaford,16
+174,Valley Str Hemp 13,16
+175,Owego-Apalachin,16
+176,Wantagh,16
+177,Victor,16
+178,Jamesville-Dewitt,15
+179,Lackawana,15
+180,Liberty,15
+181,New Paltz,15
+182,Beacon,15
+183,Canton,15
+184,Eastport-South Manor,15
+185,Elmsford,15
+186,New Hartford,14
+187,Schalmont,14
+188,Merrick,14
+189,West Irondequoit,14
+190,Dansville,14
+191,Lowville,14
+192,Hornell,14
+193,Churchville-Chili,14
+194,Clarence,14
+195,Geneva City,14
+196,Homer,14
+197,Yorktown,14
+198,South Orangetown,14
+199,Roosevelt,14
+200,Lynbrook,14
+201,Cleveland Hill,14
+202,Greenburgh,14
+203,Warwick Valley,14
+204,Saranac Lake,14
+205,Scotia-Glenville,14
+206,Hewlett Woodmere,14
+207,Peekskill,13
+208,Maine-Endwell,13
+209,Peru,13
+210,Evans-Brant,13
+211,Cohoes,13
+212,Spencerport,13
+213,Bath,13
+214,Wayne,13
+215,Port Jervis,13
+216,Herkimer,13
+217,General Brown,13
+218,Pulaski,13
+219,Carthage,13
+220,Northeastern Clinton,13
+221,Hudson Falls,13
+222,Palmyra-Macedon,13
+223,Honeoye Falls-Lima,12
+224,Herricks,12
+225,Oyster Bay,12
+226,Alden,12
+227,Hilton,12
+228,Miller Place,12
+229,Hampton Bays,12
+230,Cheektowaga-Sloan,12
+231,Potsdam,12
+232,Wyandanch,12
+233,Yorkshire-Pioneer,12
+234,Tonawanda,12
+235,Penfield,12
+236,Penn Yan,12
+237,Newark,12
+238,Fayetteville-Manlius,12
+239,Mattituck - Cutchoqu,12
+240,Bellmore,12
+241,Whitesboro,12
+242,Valley Str Hemp 24,12
+243,Sullivan West,12
+244,Olean,12
+245,Hendrick Hudson,12
+246,North Merrick,12
+247,Nanuet,12
+248,Rockville Centre,12
+249,Ausable Valley,12
+250,Island Trees,12
+251,Adirondack,12
+252,Sodus,11
+253,Holland Patent,11
+254,Shoreham-Wading R,11
+255,Highland,11
+256,East Rochester,11
+257,Mt Pleasant Cent,11
+258,Katonah Lewisboro,11
+259,Rensselaer,11
+260,Tarrytown,11
+261,Wheatland-Chili,11
+262,Cairo-Durham,11
+263,Taconic Hills,11
+264,Eastchester,11
+265,Onteora,11
+266,Roslyn,11
+267,Bayport Blue Point,11
+268,Chittenango,10
+269,Mount Sinai,10
+270,Avon,10
+271,Tupper Lake,10
+272,Burnt Hills,10
+273,Sayville,10
+274,Westhampton Beach,10
+275,Niskayuna,10
+276,Fonda-Fultonville,10
+277,Sidney,10
+278,Grand Island,10
+279,Attica,10
+280,Windsor,10
+281,Camden,10
+282,Malverne,10
+283,Little Falls,10
+284,Ellenville,10
+285,Bethpage,10
+286,Ravena-Coeymans,10
+287,Central Valley Csd,10
+288,Ichabod Crane,10
+289,East Aurora,10
+290,Pearl River,10
+291,Floral Park,10
+292,Lewiston-Porter,10
+293,Southwestern,10
+294,Babylon,10
+295,Dolgeville,10
+296,Harrison,10
+297,Mechanicville,10
+298,Iroquois,10
+299,Wallkill,10
+300,East Rockaway,9
+301,Geneseo,9
+302,Jordan-Elbridge,9
+303,Island Park,9
+304,Medina,9
+305,Oneida City,9
+306,Hoosick Falls,9
+307,Phoenix,9
+308,Falconer,9
+309,Coxsackie-Athens,9
+310,South Jefferson,9
+311,Elmira Heights,9
+312,Fallsburg,9
+313,Valhalla,9
+314,Pelham,9
+315,East Williston,9
+316,Broadalbin-Perth,9
+317,Rhinebeck,9
+318,Center Moriches,8
+319,Weedsport,8
+320,Ticonderoga,8
+321,Warrensburg,8
+322,North Rose-Wolcott,8
+323,New York Mills,8
+324,Chatham,8
+325,Northville,8
+326,Washingtonville,8
+327,Gouverneur,8
+328,Alexandria Csd,8
+329,Spackenkill,8
+330,Marlboro,8
+331,Somers,8
+332,Dunkirk,8
+333,Altmar Parish,8
+334,Harborfields,8
+335,Carle Place,8
+336,Watkins Glen,8
+337,Mexico,8
+338,Minisink Valley,8
+339,Elwood,8
+340,Lake Placid,8
+341,Solvay,8
+342,Saranac,8
+343,Cooperstown,8
+344,Red Hook,8
+345,Tuckahoe Common,8
+346,Warsaw,8
+347,Webb,8
+348,Springville-Griffith,8
+349,Southampton,8
+350,Newfane,8
+351,Boquet Valley Csd,7
+352,South Lewis,7
+353,East Bloomfield,7
+354,Gowanda,7
+355,Amherst,7
+356,Granville,7
+357,Canajoharie,7
+358,Cazenovia,7
+359,Lyons,7
+360,Phelps-Clifton,7
+361,Averill Park,7
+362,Locust Valley,7
+363,Canastota,7
+364,Waverly,7
+365,Hamilton,7
+366,Mount Markham,7
+367,Southold,7
+368,Greenport,7
+369,New Lebanon,7
+370,Livonia,7
+371,Holland,7
+372,Whitehall,7
+373,Susquehanna Valley,7
+374,Indian River,7
+375,Madrid-Waddington,7
+376,Dryden,7
+377,Jericho,7
+378,Pembroke,7
+379,Croton Harmon,7
+380,Fredonia,7
+381,Albion,7
+382,East Hampton,7
+383,Hancock,7
+384,Whitney Pt,7
+385,Dover,7
+386,Richfield Springs,7
+387,Moriah,6
+388,Pleasantville,6
+389,Pittsford,6
+390,Hammondsport,6
+391,Chappaqua,6
+392,Brighton,6
+393,Wellsville,6
+394,Le Roy,6
+395,North Warren,6
+396,Corinth,6
+397,Greenville,6
+398,Hoosick Valley,6
+399,Canaseraga,6
+400,Chester,6
+401,Dalton-Nunda,6
+402,Brunswick Central,6
+403,Ardsley,6
+404,Brasher Falls,6
+405,Mount Morris,6
+406,Campbell-Savona,6
+407,Royalton-Hartland,6
+408,Cornwall,6
+409,Garden City,6
+410,Wayland,6
+411,Roscoe,6
+412,Red Creek,6
+413,Middleburgh,6
+414,Arkport,6
+415,Seneca Falls,6
+416,Greenwich,6
+417,Moravia,6
+418,North Shore,6
+419,Clinton,6
+420,Haldane,5
+421,Schoharie,5
+422,Delhi,5
+423,Menands,5
+424,Onondaga,5
+425,Dobbs Ferry,5
+426,Highland Falls,5
+427,Sherrill,5
+428,Sandy Creek,5
+429,Wynantskill,5
+430,Pawling,5
+431,Sherburne-Earlville,5
+432,Bemus Point,5
+433,Norwood-Norfolk,5
+434,Stamford,5
+435,Morrisville-Eaton,5
+436,Irvington,5
+437,Northeast,5
+438,Marcellus,5
+439,Livingston Manor,5
+440,Holley,5
+441,Florida,5
+442,Trumansburg,5
+443,Port Byron,5
+444,Addison,5
+445,Caledonia-Mumford,5
+446,Pocantico Hills,5
+447,Margaretville,5
+448,Greene,5
+449,Allegany-Limestone,5
+450,Westfield,5
+451,Montauk,5
+452,Randolph,5
+453,Westhill,5
+454,Chautauqua Lake,5
+455,Manhasset,5
+456,Skaneateles,5
+457,Schroon Lake,5
+458,Waterford,5
+459,Waterville,5
+460,Duanesburg,5
+461,Hunter-Tannersville,5
+462,Cambridge,4
+463,Perry,4
+464,Starpoint,4
+465,Morristown,4
+466,South Seneca,4
+467,Amagansett,4
+468,Beaver River,4
+469,Dundee,4
+470,Parishville-Hopki.,4
+471,Frankfurt-Schuyler,4
+472,Hastings On Hudson,4
+473,Mcgraw,4
+474,Oesj,4
+475,Eden,4
+476,Berne-Knox-Westerlo,4
+477,Brushton-Moira,4
+478,Ashland-Jewett,4
+479,Berlin,4
+480,Afton,4
+481,Northern Adirondack,4
+482,Edwards-Knox,4
+483,Voorheesville,4
+484,Bainbridge-Guilford,4
+485,Green Island,4
+486,Millbrook,4
+487,Fort Plain,4
+488,Cassadaga Valley,4
+489,Angelica-Belmont,4
+490,Byron-Bergen,4
+491,Greenwood Lake,4
+492,Deposit,4
+493,Hadley-Luzerne,4
+494,Akron,4
+495,Rye,4
+496,Odessa-Montour,4
+497,Tully,4
+498,Pine Plains,4
+499,Silver Creek,4
+500,Unadilla Valley,4
+501,Otego-Unadilla,4
+502,Lyncourt,4
+503,Mayfield,3
+504,Port Jefferson,3
+505,Hermon-Dekalb,3
+506,Williamson,3
+507,Fort Ann,3
+508,Wainscott,3
+509,Salamanca,3
+510,Schuylerville,3
+511,Naples,3
+512,De Ruyter,3
+513,Jasper-Troupsburg,3
+514,Tioga,3
+515,Germantown,3
+516,Lyme,3
+517,Ellicottville,3
+518,Wilson,3
+519,Byram Hills,3
+520,Worcester,3
+521,East Quogue,3
+522,Gorham-Middlesex,3
+523,Indian Lake,3
+524,Bradford,3
+525,Chateaugay,3
+526,Eldred,3
+527,Pine Valley,3
+528,York,3
+529,Marion,3
+530,Cattaraugus-Little V,3
+531,W. Canada Valley,3
+532,Edgemont,3
+533,Putnam Valley,3
+534,Canisteo-Greenwood,3
+535,Belfast,3
+536,North Collins,3
+537,Spencer-Van Etten,3
+538,Shelter Island,3
+539,Lydonville,3
+540,Cuba-Rushford,3
+541,Letchworth,3
+542,Oxford,3
+543,La Fayette,3
+544,Poland,3
+545,Downsville,3
+546,Willsboro,3
+547,Harpursville,3
+548,Colton Pierrepont,3
+549,Alfred Almond,3
+550,Oakfield-Alabama,3
+551,Westmoreland,3
+552,Frewsburg,3
+553,Clyde-Savannah,3
+554,Stillwater,3
+555,Manchester-Shortsvil,3
+556,Pavilion,3
+557,Prattsburg,3
+558,Newark Valley,3
+559,Lansing,3
+560,Marathon,3
+561,Hannibal,3
+562,Harrisville,3
+563,Johnsburg,3
+564,Salmon River,3
+565,Walton,3
+566,Fillmore,3
+567,Glens Falls Common,3
+568,Bolton,3
+569,Clifton Fine,3
+570,Schodack,3
+571,Rye Neck,2
+572,Garrison Union Free,2
+573,Newfield,2
+574,Edinburg,2
+575,Lake Pleasant,2
+576,Heuvelton,2
+577,Schenevus,2
+578,Tri-Valley,2
+579,Scio,2
+580,Edmeston,2
+581,Inlet,2
+582,Georgetown-S.Otselic,2
+583,Ripley,2
+584,Sag Harbor,2
+585,Gilbertsvl-Mt Upton,2
+586,North Salem,2
+587,Sherman,2
+588,Union Springs,2
+589,Andover,2
+590,Chenango Forks,2
+591,Sauquoit Valley,2
+592,Franklinville,2
+593,East Moriches,2
+594,Long Lake,2
+595,Cherry Vly-Springfld,2
+596,Cato-Meridian,2
+597,Laurens,2
+598,St. Regis Falls,2
+599,Caroga-Wheelerville,2
+600,Remsenburg,2
+601,Sackets Harbour,2
+602,Friendship,2
+603,Candor,2
+604,Sharon Springs,2
+605,Bolivar-Richburg,2
+606,Remsen,2
+607,Lafargeville,2
+608,Galway,2
+609,Tuckahoe,2
+610,Alexander,2
+611,Briarcliff Manor,2
+612,Barker,2
+613,Honeoye,2
+614,Fabius-Pompey,2
+615,Madison,2
+616,Salem,2
+617,Gilboa-Conesville,1
+618,New Suffolk,1
+619,Gananda,1
+620,Wells,1
+621,Crown Point,1
+622,West Valley,1
+623,Jefferson,1
+624,Forestville,1
+625,Scarsdale,1
+626,Portville,1
+627,Romulus,1
+628,Groton,1
+629,Elba,1
+630,Avoca,1
+631,Piseco Common,1
+632,North Greenbush,1
+633,Brookfield,1
+634,Springs,1
+635,Tuxedo,1
+636,Cold Spring Harbor,1
+637,Hinsdale,1
+638,Kendall,1
+639,Brocton,1
+640,Milford,1
+641,Morris,1
+642,Copenhagen,1
+643,Charlotte Valley,1
+644,Southern Cayuga,1
+645,Cincinnatus,1
+646,Chazy Union Free,1
+647,South Kortright,1
+648,Roxbury,1
+649,Franklin,1
+650,Oriskany,1
+651,Fort Edward,1
+652,Hartford,1
+653,Argyle,1
+654,Lisbon,1
+655,Keene,1
+656,Kiryas Joel,1
